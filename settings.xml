@@ -23,7 +23,6 @@
   </profile>
 </profiles>
 
-
 <mirrors>
   <mirror>
     <id>aws-rogen-ec2-repository-codeartifact</id>
@@ -32,6 +31,7 @@
     <mirrorOf>*</mirrorOf>
   </mirror>
 </mirrors>
+
 
 
 
